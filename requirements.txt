@@ -6,3 +6,4 @@ PyMuPDF
 google-generativeai
 supabase
 python-dotenv
+python-multipart
