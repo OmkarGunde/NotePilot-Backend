@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pillow
+pytesseract
+PyMuPDF
+google-generativeai
+supabase
+python-dotenv
